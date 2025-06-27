@@ -37,6 +37,7 @@ Requirement Analysis consists of several essential activities that ensure the so
 
 - **Requirement Validation**  
   Ensuring the documented requirements accurately reflect stakeholder needs and are agreed upon. Techniques include walkthroughs, reviews, and validation meetings with stakeholders.
+  
   ## Types of Requirements
 
 In software engineering, requirements are broadly categorized into two types: functional and non-functional. Understanding both is essential for designing robust and user-centered systems.
