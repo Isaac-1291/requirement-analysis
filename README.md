@@ -19,4 +19,22 @@ Requirement analysis helps clearly define what needs to be built. It prevents sc
 By identifying the functional and non-functional requirements early, development teams can avoid costly mistakes and misunderstandings that often occur later in the project lifecycle.
 ### 3. Saves Time and Cost
 Well-documented requirements allow for better planning, accurate estimation of resources, and early identification of risks — leading to faster development cycles and reduced project costs.
+## Key Activities in Requirement Analysis
+
+Requirement Analysis consists of several essential activities that ensure the software product aligns with stakeholder expectations and technical feasibility. Below are the five key activities:
+
+- **Requirement Gathering**  
+  Collecting information from stakeholders to understand their needs, expectations, and constraints. This includes interviews, questionnaires, observations, and document reviews.
+
+- **Requirement Elicitation**  
+  Engaging stakeholders to clarify, explore, and discover requirements through workshops, brainstorming sessions, use case discussions, and prototyping.
+
+- **Requirement Documentation**  
+  Structuring and recording the gathered requirements in a clear and organized format, such as Software Requirement Specifications (SRS), user stories, or requirement traceability matrices.
+
+- **Requirement Analysis and Modeling**  
+  Evaluating requirements for feasibility, consistency, and completeness. This may include creating diagrams (e.g., data flow diagrams, use case models) to visualize system behavior and relationships.
+
+- **Requirement Validation**  
+  Ensuring the documented requirements accurately reflect stakeholder needs and are agreed upon. Techniques include walkthroughs, reviews, and validation meetings with stakeholders.
 
