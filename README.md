@@ -68,3 +68,31 @@ They do not specify actions but set constraints on how the system functions.
 - The app must be **responsive and mobile-friendly**.
 - The system should support **up to 100,000 concurrent users** during peak seasons.
 
+## Use Case Diagrams
+
+Use Case Diagrams are visual models that represent the interactions between users (actors) and the system. These diagrams help stakeholders and developers understand what the system should do by illustrating system functionality from a user's point of view.
+
+### Benefits of Use Case Diagrams
+
+- Help visualize the system’s scope and boundaries
+- Simplify communication between technical and non-technical stakeholders
+- Highlight core system functionality at a glance
+- Serve as a basis for identifying functional requirements
+
+### Use Case Diagram for Booking Management System
+
+The diagram below illustrates the primary interactions between actors and the booking system.
+
+**Actors:**
+- Guest (User)
+- Host
+- Admin
+
+**Use Cases:**
+- Register / Login
+- Search for Properties
+- Book Property
+- Make Payment
+- Add or Manage Listings
+- Approve Listings
+- Manage Users
