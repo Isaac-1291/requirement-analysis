@@ -96,3 +96,26 @@ The diagram below illustrates the primary interactions between actors and the bo
 - Add or Manage Listings
 - Approve Listings
 - Manage Users
+## Acceptance Criteria
+
+Acceptance Criteria are conditions that a software product must satisfy to be accepted by the end user, customer, or stakeholders. These are used to confirm that a feature or functionality meets the requirements and performs as expected.
+
+### Why Acceptance Criteria are Important
+
+- ✅ Define clear expectations for a feature's behavior and scope
+- ✅ Help avoid misunderstandings between developers, testers, and stakeholders
+- ✅ Serve as the basis for test cases and quality assurance
+- ✅ Ensure traceability between requirements and delivered features
+
+### Example: Acceptance Criteria for the Checkout Feature
+
+**Feature:** Checkout Page for Booking
+
+**Acceptance Criteria:**
+
+- ✅ User must be logged in to access the checkout page
+- ✅ User must see a summary of selected property, dates, and pricing
+- ✅ User must be able to enter or select a saved payment method
+- ✅ Booking confirmation must be displayed upon successful payment
+- ✅ System should validate expired or invalid cards and display error messages
+- ✅ A booking confirmation email must be sent after successful transaction
